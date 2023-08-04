@@ -1,0 +1,43 @@
+.header{
+    font-family: Impact, Haettenschweiler, 
+    'Arial Narrow Bold', sans-serif;
+    color: darkorange;
+    text-align: center;
+}
+
+.recipe-desc{
+    font-family: Impact, Haettenschweiler, 
+    'Arial Narrow Bold', sans-serif;
+    text-align: center
+};
+
+.desc{
+    color: darkorange;
+    font-family: Impact, Haettenschweiler,
+     'Arial Narrow Bold', sans-serif;;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler,
+     'Arial Narrow Bold', sans-serif;
+     color:darkorange;
+     text-align: center;
+}    
+
+div{
+    text-align: center;
+
+}
+
+.list{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+    list-style: none;
+}
+
+h2{
+    text-align: center;
+}
